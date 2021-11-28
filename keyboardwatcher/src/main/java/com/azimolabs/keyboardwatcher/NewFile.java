@@ -10,6 +10,7 @@ import android.view.WindowManager;
 import java.lang.ref.WeakReference;
 
 public class NewFile {
-
+  
+  System.out.println("this conflict is scary")
 
 }
